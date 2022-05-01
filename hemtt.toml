@@ -1,0 +1,42 @@
+name = "Synixe Contractors"
+prefix = "synixe_contractors"
+author = "Synixe Contractors"
+files = [
+    "mod.cpp",
+    "README.md",
+    "AUTHORS.txt",
+    "LICENSE",
+    "logo_synixe_ca.paa",
+    "logo_synixe_small_ca.paa",
+    "meta.cpp"
+]
+
+modname = "synixe_contractors"
+key_name = "{{prefix}}_{{version}}"
+authority = "{{prefix}}_{{version}}"
+
+check = [
+    "!binarizer_link"
+]
+releasebuild = [
+    "@zip SynixeContractors{{version}}"
+]
+
+[header_exts]
+version = "{{git \"id 8\"}}"
+
+# Binarizer file search compatibility
+[scripts.binarizer_link]
+steps_windows = [
+    "if not exist x\\synixe_contractors mkdir x\\synixe_contractors",
+    "if not exist x\\synixe_contractors\\addons mklink /j x\\synixe_contractors\\addons addons",
+	"if not exist a3 mklink /j a3 include\\a3"
+]
+steps_linux = [
+    # Preparation for Windows Binarizer (run once on Linux for network share compatibility)
+    "mkdir -p x/synixe_contractors",
+    "[ -d x/synixe_contractors/addons ] || ln -sr addons x/synixe_contractors/",
+    "mkdir -p a3",
+    "[ -d a3 ] || ln -sr include/a3 a3/"
+]
+show_output = true
