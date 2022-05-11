@@ -3,11 +3,7 @@ prefix = "synixe_contractors"
 author = "Synixe Contractors"
 files = [
     "mod.cpp",
-    "README.md",
-    "AUTHORS.txt",
-    "LICENSE",
     "logo_synixe_ca.paa",
-    "logo_synixe_small_ca.paa",
     "meta.cpp"
 ]
 

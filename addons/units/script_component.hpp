@@ -11,3 +11,5 @@
 #endif
 
 #include "\x\synixe_contractors\addons\main\script_macros.hpp"
+
+#define DEFAULT_ITEMS "ItemMap", "ItemCompass", "ItemWatch"

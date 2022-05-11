@@ -20,7 +20,6 @@ class CfgVehicles {
 	class B_RangeMaster_F;
 	class CLASS(Unit_Polo_Base): B_RangeMaster_F {
 		MACRO_BASE_CLASS_COMMON
-		nakedUniform = QCLASS(Unit_Underwear_BlueLogo);
 	};
 	class CLASS(Unit_Contractor_Shirt): CLASS(Unit_Polo_Base) {
 		scope = 1;
@@ -61,6 +60,7 @@ class CfgVehicles {
 	};
 
 	#include "CfgVehicles_GroundItems.hpp"
+	#include "CfgVehicles_PublicUnits.hpp"
 
 	#include "vehicles\air\heli_light_01.hpp"
 };
