@@ -8,7 +8,7 @@ class CfgPatches {
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"A3_Data_F_Tank_Loadorder"};
         author = "Synixe Contractors";
-        authors[] = {"Brett"};
+        authors[] = {"Brett Harrison"};
         VERSION_CONFIG;
     };
 };

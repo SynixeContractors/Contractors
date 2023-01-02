@@ -1,10 +1,10 @@
 class CfgWeapons {
-	class Uniform_Base;
-	class U_BasicBody: Uniform_Base {
+    class Uniform_Base;
+    class U_BasicBody: Uniform_Base {
         class ItemInfo;
     };
 
-	class UniformItem;
+    class UniformItem;
     class CLASS(Uniform_Base): Uniform_Base {
         dlc = QUOTE(PREFIX);
         scope = 0;
@@ -20,20 +20,20 @@ class CfgWeapons {
     // Contractor Shirt
     class CLASS(Uniform_Contractor_Shirt): CLASS(Uniform_Base) {
         scope = 2;
-        author = "Brett";
-		displayName = "Contractor Shirt";
-        // picture = QPATHTOF(ui\uniform_combat_ls_synixe_bp_ca.paa);
+        author = "Brett Harrison";
+        displayName = "Contractor Shirt";
+        picture = QPATHTOF(ui\contractor_shirt_ca.paa);
 
         class ItemInfo: ItemInfo {
             uniformClass = QCLASS(Unit_Contractor_Shirt);
         };
     };
 
-	// Synixe Tartan
-	class CLASS(Uniform_Combat_LS_Synixe_BP_BB): CLASS(Uniform_Base) {
+    // Synixe Tartan
+    class CLASS(Uniform_Combat_LS_Synixe_BP_BB): CLASS(Uniform_Base) {
         scope = 2;
-        author = "Brett";
-		displayName = "Combat Uniform Long (Synixe, Black, Black)";
+        author = "Brett Harrison";
+        displayName = "Combat Uniform Long (Synixe, Black, Black)";
         picture = QPATHTOF(ui\uniform_combat_ls_synixe_bp_ca.paa);
 
         class ItemInfo: ItemInfo {
@@ -42,8 +42,8 @@ class CfgWeapons {
     };
     class CLASS(Uniform_Combat_RS_Synixe_BP_BB): CLASS(Uniform_Base) {
         scope = 2;
-        author = "Brett";
-		displayName = "Combat Uniform Rolled (Synixe, Black, Black)";
+        author = "Brett Harrison";
+        displayName = "Combat Uniform Rolled (Synixe, Black, Black)";
         picture = QPATHTOF(ui\uniform_combat_rs_synixe_bp_ca.paa);
 
         class ItemInfo: ItemInfo {

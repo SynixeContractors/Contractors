@@ -24,7 +24,7 @@ class CfgPatches {
         requiredAddons[] = {
             "synixe_contractors_main"
         };
-        authors[] = {"Brett"};
+        authors[] = {"Brett Harrison"};
         VERSION_CONFIG;
     };
 };

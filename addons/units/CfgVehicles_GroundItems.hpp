@@ -9,7 +9,7 @@ class Item_Base_F;
 
 class CLASS(Item_Uniform_Contractor_Shirt): Item_Base_F {
     MACRO_ITEM_COMMON
-    author = "Brett";
+    author = "Brett Harrison";
     displayName = CSTRING(Uniform_Contractor_Shirt);
 
     class TransportItems {
@@ -19,7 +19,7 @@ class CLASS(Item_Uniform_Contractor_Shirt): Item_Base_F {
 
 class CLASS(Item_Uniform_Combat_LS_Synixe_BP_BB): Item_Base_F {
     MACRO_ITEM_COMMON
-    author = "Brett";
+    author = "Brett Harrison";
     displayName = CSTRING(Uniform_Combat_LS_Synixe_BP_BB);
 
     class TransportItems {
@@ -29,7 +29,7 @@ class CLASS(Item_Uniform_Combat_LS_Synixe_BP_BB): Item_Base_F {
 
 class CLASS(Item_Uniform_Combat_RS_Synixe_BP_BB): Item_Base_F {
     MACRO_ITEM_COMMON
-    author = "Brett";
+    author = "Brett Harrison";
     displayName = CSTRING(Uniform_Combat_RS_Synixe_BP_BB);
 
     class TransportItems {
