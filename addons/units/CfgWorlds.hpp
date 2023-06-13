@@ -4,7 +4,7 @@ class CfgWorlds {
             class FirstNames {
                 andrew = "Andrew";
                 arsey = "Arsey";
-                avingon = "Avingon"
+                avingon = "Avingon";
                 brett = "Brett";
                 carson = "Carson";
                 chaplain = "Chaplain";

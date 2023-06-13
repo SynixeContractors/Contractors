@@ -1,0 +1,219 @@
+2023-06-13T00:29:27.796042Z TRACE ThreadId(01) version: 1.6.0
+2023-06-13T00:29:27.796078Z TRACE ThreadId(01) platform: windows
+2023-06-13T00:29:27.796405Z TRACE ThreadId(01) checking for version macro in "addons/main/script_version.hpp"
+2023-06-13T00:29:27.798850Z  INFO ThreadId(01) Config loaded for HEMTT 1.4.0.0-9e74c945
+2023-06-13T00:29:27.798868Z TRACE ThreadId(01) using temporary folder: "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units"
+2023-06-13T00:29:27.798872Z TRACE ThreadId(01) using project folder: "W:\\GitHub\\SynixeContractors\\units"
+2023-06-13T00:29:27.798875Z TRACE ThreadId(01) using out folder: "W:\\GitHub\\SynixeContractors\\units\\.hemttout"
+2023-06-13T00:29:27.798903Z TRACE ThreadId(01) using build folder: "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev"
+2023-06-13T00:29:27.799920Z TRACE ThreadId(01) vfs overlay at root: "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\output"
+2023-06-13T00:29:27.799928Z TRACE ThreadId(01) vfs root: "W:\\GitHub\\SynixeContractors\\units"
+2023-06-13T00:29:27.800371Z  INFO ThreadId(01) Creating `dev` version
+2023-06-13T00:29:27.800377Z TRACE ThreadId(01) phase: init (start)
+2023-06-13T00:29:27.801568Z TRACE ThreadId(01) link "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\source\\x\\synixe_contractors\\addons\\arcadian" => "W:\\GitHub\\SynixeContractors\\units\\addons\\arcadian"
+2023-06-13T00:29:27.808968Z TRACE ThreadId(01) link "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\source\\x\\synixe_contractors\\addons\\headgear" => "W:\\GitHub\\SynixeContractors\\units\\addons\\headgear"
+2023-06-13T00:29:27.815719Z TRACE ThreadId(01) link "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\source\\x\\synixe_contractors\\addons\\main" => "W:\\GitHub\\SynixeContractors\\units\\addons\\main"
+2023-06-13T00:29:27.821913Z TRACE ThreadId(01) link "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\source\\x\\synixe_contractors\\addons\\tatra" => "W:\\GitHub\\SynixeContractors\\units\\addons\\tatra"
+2023-06-13T00:29:27.827892Z TRACE ThreadId(01) link "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\source\\x\\synixe_contractors\\addons\\units" => "W:\\GitHub\\SynixeContractors\\units\\addons\\units"
+2023-06-13T00:29:27.833749Z TRACE ThreadId(01) phase: init (sqf) (start)
+2023-06-13T00:29:27.833757Z TRACE ThreadId(01) phase: init (sqf) (done)
+2023-06-13T00:29:27.833761Z TRACE ThreadId(01) phase: init (Hooks) (start)
+2023-06-13T00:29:27.833772Z TRACE ThreadId(01) no hooks folder
+2023-06-13T00:29:27.833774Z TRACE ThreadId(01) phase: init (Hooks) (done)
+2023-06-13T00:29:27.833776Z TRACE ThreadId(01) phase: init (Rapifier) (start)
+2023-06-13T00:29:27.833777Z TRACE ThreadId(01) phase: init (Rapifier) (done)
+2023-06-13T00:29:27.833780Z TRACE ThreadId(01) phase: init (Files) (start)
+2023-06-13T00:29:27.833781Z TRACE ThreadId(01) phase: init (Files) (done)
+2023-06-13T00:29:27.833783Z TRACE ThreadId(01) phase: init (FilePatching) (start)
+2023-06-13T00:29:27.833785Z TRACE ThreadId(01) phase: init (FilePatching) (done)
+2023-06-13T00:29:27.833787Z TRACE ThreadId(01) phase: init (done)
+2023-06-13T00:29:27.833790Z TRACE ThreadId(01) phase: check (start)
+2023-06-13T00:29:27.833792Z TRACE ThreadId(01) phase: check (sqf) (start)
+2023-06-13T00:29:27.833794Z TRACE ThreadId(01) phase: check (sqf) (done)
+2023-06-13T00:29:27.833795Z TRACE ThreadId(01) phase: check (Hooks) (start)
+2023-06-13T00:29:27.833797Z TRACE ThreadId(01) phase: check (Hooks) (done)
+2023-06-13T00:29:27.833798Z TRACE ThreadId(01) phase: check (Rapifier) (start)
+2023-06-13T00:29:27.833800Z TRACE ThreadId(01) phase: check (Rapifier) (done)
+2023-06-13T00:29:27.833802Z TRACE ThreadId(01) phase: check (Files) (start)
+2023-06-13T00:29:27.833803Z TRACE ThreadId(01) phase: check (Files) (done)
+2023-06-13T00:29:27.833805Z TRACE ThreadId(01) phase: check (FilePatching) (start)
+2023-06-13T00:29:27.833806Z TRACE ThreadId(01) phase: check (FilePatching) (done)
+2023-06-13T00:29:27.833832Z TRACE ThreadId(01) phase: check (done)
+2023-06-13T00:29:27.833835Z TRACE ThreadId(01) phase: pre_build (start)
+2023-06-13T00:29:27.833837Z TRACE ThreadId(01) phase: pre_build (sqf) (start)
+2023-06-13T00:29:27.833839Z TRACE ThreadId(01) phase: pre_build (sqf) (done)
+2023-06-13T00:29:27.833841Z TRACE ThreadId(01) phase: pre_build (Hooks) (start)
+2023-06-13T00:29:27.833844Z TRACE ThreadId(01) phase: pre_build (Hooks) (done)
+2023-06-13T00:29:27.833845Z TRACE ThreadId(01) phase: pre_build (Rapifier) (start)
+2023-06-13T00:29:27.834629Z DEBUG ThreadId(08) rapifying /addons/units/config.cpp
+2023-06-13T00:29:27.834641Z TRACE ThreadId(08) find_include: /addons/units/config.cpp config.cpp
+2023-06-13T00:29:27.834640Z DEBUG ThreadId(02) rapifying /addons/main/config.cpp
+2023-06-13T00:29:27.834660Z TRACE ThreadId(02) find_include: /addons/main/config.cpp config.cpp
+2023-06-13T00:29:27.834755Z DEBUG ThreadId(29) rapifying /addons/arcadian/config.cpp
+2023-06-13T00:29:27.834761Z TRACE ThreadId(29) find_include: /addons/arcadian/config.cpp config.cpp
+2023-06-13T00:29:27.834766Z DEBUG ThreadId(12) rapifying /addons/headgear/config.cpp
+2023-06-13T00:29:27.834773Z TRACE ThreadId(12) find_include: /addons/headgear/config.cpp config.cpp
+2023-06-13T00:29:27.835041Z TRACE ThreadId(02) find_include: /addons/main/config.cpp script_component.hpp
+2023-06-13T00:29:27.835140Z DEBUG ThreadId(07) rapifying /addons/tatra/config.cpp
+2023-06-13T00:29:27.835140Z TRACE ThreadId(29) find_include: /addons/arcadian/config.cpp script_component.hpp
+2023-06-13T00:29:27.835145Z TRACE ThreadId(07) find_include: /addons/tatra/config.cpp config.cpp
+2023-06-13T00:29:27.835178Z TRACE ThreadId(12) find_include: /addons/headgear/config.cpp script_component.hpp
+2023-06-13T00:29:27.835233Z TRACE ThreadId(08) find_include: /addons/units/config.cpp script_component.hpp
+2023-06-13T00:29:27.835255Z TRACE ThreadId(02) find_include: /addons/main\script_component.hpp \x\synixe_contractors\addons\main\script_mod.hpp
+2023-06-13T00:29:27.835335Z TRACE ThreadId(29) find_include: /addons/arcadian\script_component.hpp \x\synixe_contractors\addons\main\script_mod.hpp
+2023-06-13T00:29:27.835343Z TRACE ThreadId(12) find_include: /addons/headgear\script_component.hpp \x\synixe_contractors\addons\main\script_mod.hpp
+2023-06-13T00:29:27.835396Z TRACE ThreadId(08) find_include: /addons/units\script_component.hpp \x\synixe_contractors\addons\main\script_mod.hpp
+2023-06-13T00:29:27.835435Z TRACE ThreadId(07) find_include: /addons/tatra/config.cpp script_component.hpp
+2023-06-13T00:29:27.835559Z TRACE ThreadId(02) find_include: /addons/main\script_mod.hpp script_version.hpp
+2023-06-13T00:29:27.835653Z TRACE ThreadId(07) find_include: /addons/tatra\script_component.hpp \x\synixe_contractors\addons\main\script_mod.hpp
+2023-06-13T00:29:27.835656Z TRACE ThreadId(12) find_include: /addons/main\script_mod.hpp script_version.hpp
+2023-06-13T00:29:27.835659Z TRACE ThreadId(29) find_include: /addons/main\script_mod.hpp script_version.hpp
+2023-06-13T00:29:27.835712Z TRACE ThreadId(02) find_include: /addons/main\script_component.hpp \x\synixe_contractors\addons\main\script_macros.hpp
+2023-06-13T00:29:27.835744Z TRACE ThreadId(08) find_include: /addons/main\script_mod.hpp script_version.hpp
+2023-06-13T00:29:27.835806Z TRACE ThreadId(12) find_include: /addons/headgear\script_component.hpp \x\synixe_contractors\addons\main\script_macros.hpp
+2023-06-13T00:29:27.835813Z TRACE ThreadId(29) find_include: /addons/arcadian\script_component.hpp \x\synixe_contractors\addons\main\script_macros.hpp
+2023-06-13T00:29:27.835867Z TRACE ThreadId(08) find_include: /addons/units\script_component.hpp \x\synixe_contractors\addons\main\script_macros.hpp
+2023-06-13T00:29:27.835864Z TRACE ThreadId(07) find_include: /addons/main\script_mod.hpp script_version.hpp
+2023-06-13T00:29:27.836005Z TRACE ThreadId(07) find_include: /addons/tatra\script_component.hpp \x\synixe_contractors\addons\main\script_macros.hpp
+2023-06-13T00:29:27.836389Z TRACE ThreadId(02) find_include: /addons/main/config.cpp CfgFactionClasses.hpp
+2023-06-13T00:29:27.836600Z TRACE ThreadId(12) find_include: /addons/headgear/config.cpp CfgVehicles.hpp
+2023-06-13T00:29:27.836763Z TRACE ThreadId(29) find_include: /addons/arcadian/config.cpp CfgVehicles.hpp
+2023-06-13T00:29:27.836806Z TRACE ThreadId(08) find_include: /addons/units/config.cpp CfgVehicles.hpp
+2023-06-13T00:29:27.837118Z TRACE ThreadId(02) find_include: /addons/main/config.cpp CfgMods.hpp
+2023-06-13T00:29:27.837164Z TRACE ThreadId(12) find_include: /addons/headgear/config.cpp CfgWeapons.hpp
+2023-06-13T00:29:27.837221Z TRACE ThreadId(07) find_include: /addons/tatra/config.cpp CfgVehicles.hpp
+2023-06-13T00:29:27.837324Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.837628Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.837903Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.838157Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.838448Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.838757Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.838984Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.839235Z TRACE ThreadId(29) find_include: /addons/arcadian\CfgVehicles.hpp PlateInfos.hpp
+2023-06-13T00:29:27.839367Z TRACE ThreadId(08) find_include: /addons/units\CfgVehicles.hpp CfgVehicles_GroundItems.hpp
+2023-06-13T00:29:27.840746Z TRACE ThreadId(08) find_include: /addons/units\CfgVehicles.hpp CfgVehicles_PublicUnits.hpp
+2023-06-13T00:29:27.840996Z TRACE ThreadId(08) find_include: /addons/units\CfgVehicles.hpp vehicles\air\heli_light_01.hpp
+2023-06-13T00:29:27.841494Z TRACE ThreadId(08) find_include: /addons/units/config.cpp CfgWeapons.hpp
+2023-06-13T00:29:27.842670Z TRACE ThreadId(08) find_include: /addons/units/config.cpp CfgWorlds.hpp
+2023-06-13T00:29:27.845982Z DEBUG ThreadId(08) rapifying /addons/units/data/uniform_combat_plaid.rvmat
+2023-06-13T00:29:27.845988Z TRACE ThreadId(08) find_include: /addons/units/data/uniform_combat_plaid.rvmat uniform_combat_plaid.rvmat
+2023-06-13T00:29:27.847639Z  INFO ThreadId(01) Rapified 6 addon configs
+2023-06-13T00:29:27.847649Z TRACE ThreadId(01) phase: pre_build (Rapifier) (done)
+2023-06-13T00:29:27.847652Z TRACE ThreadId(01) phase: pre_build (Files) (start)
+2023-06-13T00:29:27.847654Z TRACE ThreadId(01) phase: pre_build (Files) (done)
+2023-06-13T00:29:27.847656Z TRACE ThreadId(01) phase: pre_build (FilePatching) (start)
+2023-06-13T00:29:27.847755Z TRACE ThreadId(02) link "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\arcadian" => "W:\\GitHub\\SynixeContractors\\units\\addons\\arcadian"
+2023-06-13T00:29:27.847761Z TRACE ThreadId(03) link "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\main" => "W:\\GitHub\\SynixeContractors\\units\\addons\\main"
+2023-06-13T00:29:27.847764Z TRACE ThreadId(04) link "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\headgear" => "W:\\GitHub\\SynixeContractors\\units\\addons\\headgear"
+2023-06-13T00:29:27.847771Z TRACE ThreadId(05) link "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\tatra" => "W:\\GitHub\\SynixeContractors\\units\\addons\\tatra"
+2023-06-13T00:29:27.847775Z TRACE ThreadId(07) link "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\units" => "W:\\GitHub\\SynixeContractors\\units\\addons\\units"
+2023-06-13T00:29:27.864314Z TRACE ThreadId(01) phase: pre_build (FilePatching) (done)
+2023-06-13T00:29:27.864328Z TRACE ThreadId(01) phase: pre_build (done)
+2023-06-13T00:29:27.864332Z TRACE ThreadId(01) phase: build (start)
+2023-06-13T00:29:27.865248Z DEBUG ThreadId(02) building "addons/arcadian" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\synixe_contractors_arcadian.pbo"
+2023-06-13T00:29:27.865250Z DEBUG ThreadId(03) building "addons/main" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\synixe_contractors_main.pbo"
+2023-06-13T00:29:27.865262Z DEBUG ThreadId(04) building "addons/headgear" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\synixe_contractors_headgear.pbo"
+2023-06-13T00:29:27.865265Z DEBUG ThreadId(05) building "addons/tatra" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\synixe_contractors_tatra.pbo"
+2023-06-13T00:29:27.865268Z DEBUG ThreadId(06) building "addons/units" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\addons\\synixe_contractors_units.pbo"
+2023-06-13T00:29:27.865420Z TRACE ThreadId(02) adding file "PlateInfos.hpp"
+2023-06-13T00:29:27.865420Z TRACE ThreadId(03) adding file "script_version.hpp"
+2023-06-13T00:29:27.865450Z TRACE ThreadId(06) adding file "script_component.hpp"
+2023-06-13T00:29:27.865474Z TRACE ThreadId(03) adding file "config.bin"
+2023-06-13T00:29:27.865583Z TRACE ThreadId(05) adding file "CfgVehicles.hpp"
+2023-06-13T00:29:27.865621Z TRACE ThreadId(05) adding file "config.bin"
+2023-06-13T00:29:27.865639Z TRACE ThreadId(04) adding file "config.bin"
+2023-06-13T00:29:27.865671Z TRACE ThreadId(02) adding file "script_component.hpp"
+2023-06-13T00:29:27.865673Z TRACE ThreadId(06) adding file "CfgVehicles_GroundItems.hpp"
+2023-06-13T00:29:27.865712Z TRACE ThreadId(04) adding file "CfgVehicles.hpp"
+2023-06-13T00:29:27.865752Z TRACE ThreadId(03) adding file "script_component.hpp"
+2023-06-13T00:29:27.865768Z TRACE ThreadId(02) adding file "CfgVehicles.hpp"
+2023-06-13T00:29:27.865769Z TRACE ThreadId(06) adding file "CfgVehicles.hpp"
+2023-06-13T00:29:27.865804Z TRACE ThreadId(02) adding file "config.bin"
+2023-06-13T00:29:27.865808Z TRACE ThreadId(04) adding file "script_component.hpp"
+2023-06-13T00:29:27.865811Z TRACE ThreadId(05) adding file "script_component.hpp"
+2023-06-13T00:29:27.865899Z TRACE ThreadId(06) adding file "CfgVehicles_PublicUnits.hpp"
+2023-06-13T00:29:27.865945Z TRACE ThreadId(06) adding file "config.bin"
+2023-06-13T00:29:27.865949Z TRACE ThreadId(03) adding file "CfgMods.hpp"
+2023-06-13T00:29:27.865956Z TRACE ThreadId(04) adding file "CfgWeapons.hpp"
+2023-06-13T00:29:27.866011Z TRACE ThreadId(06) adding file "CfgWorlds.hpp"
+2023-06-13T00:29:27.866024Z TRACE ThreadId(05) adding file "data\\cabin_desert_synixe_nologo_co.paa"
+2023-06-13T00:29:27.866045Z TRACE ThreadId(03) adding file "CfgFactionClasses.hpp"
+2023-06-13T00:29:27.866123Z TRACE ThreadId(05) adding file "data\\cabin_synixe_nologo_co.paa"
+2023-06-13T00:29:27.866135Z TRACE ThreadId(03) adding file "script_mod.hpp"
+2023-06-13T00:29:27.866163Z TRACE ThreadId(06) adding file "CfgWeapons.hpp"
+2023-06-13T00:29:27.866218Z TRACE ThreadId(05) adding file "data\\cabin_desert_synixe_logo_co.paa"
+2023-06-13T00:29:27.866235Z TRACE ThreadId(03) adding file "script_macros.hpp"
+2023-06-13T00:29:27.866253Z TRACE ThreadId(04) adding file "UI\\hat_beret_black_ca.paa"
+2023-06-13T00:29:27.866318Z TRACE ThreadId(05) adding file "data\\cabin_synixe_logo_co.paa"
+2023-06-13T00:29:27.866357Z TRACE ThreadId(04) adding file "UI\\cap_headphones_green_ca.paa"
+2023-06-13T00:29:27.866401Z TRACE ThreadId(03) adding file "ui\\synixe_ca.paa"
+2023-06-13T00:29:27.866455Z TRACE ThreadId(06) adding file "data\\uniform_combat_synixe_bp_bb_co.paa"
+2023-06-13T00:29:27.866556Z TRACE ThreadId(06) adding file "data\\uniform_combat_plaid_smdi.paa"
+2023-06-13T00:29:27.866556Z TRACE ThreadId(04) adding file "data\\hat_beret_black_co.paa"
+2023-06-13T00:29:27.866591Z TRACE ThreadId(06) adding file "data\\uniform_combat_plaid.rvmat"
+2023-06-13T00:29:27.866662Z TRACE ThreadId(04) adding file "data\\cap_headphones_green_co.paa"
+2023-06-13T00:29:27.866690Z TRACE ThreadId(06) adding file "data\\uniform_combat_plaid_nohq.paa"
+2023-06-13T00:29:27.866790Z TRACE ThreadId(06) adding file "data\\back.paa"
+2023-06-13T00:29:27.866879Z TRACE ThreadId(06) adding file "data\\uniform_contractor_shirt_co.paa"
+2023-06-13T00:29:27.867146Z TRACE ThreadId(06) adding file "vehicles\\air\\heli_light_01.hpp"
+2023-06-13T00:29:27.867234Z TRACE ThreadId(06) adding file "vehicles\\air\\Heli_Light_01_ext_synixe_co.paa"
+2023-06-13T00:29:27.867397Z TRACE ThreadId(06) adding file "ui\\contractor_shirt_ca.paa"
+2023-06-13T00:29:27.867483Z TRACE ThreadId(06) adding file "ui\\uniform_combat_ls_synixe_bp_ca.paa"
+2023-06-13T00:29:27.867572Z TRACE ThreadId(06) adding file "ui\\uniform_combat_rs_synixe_bp_ca.paa"
+2023-06-13T00:29:27.884203Z  INFO ThreadId(01) Built 5 PBOs
+2023-06-13T00:29:27.884220Z TRACE ThreadId(01) phase: build (done)
+2023-06-13T00:29:27.884222Z TRACE ThreadId(01) phase: post_build (start)
+2023-06-13T00:29:27.884225Z TRACE ThreadId(01) phase: post_build (sqf) (start)
+2023-06-13T00:29:27.884227Z TRACE ThreadId(01) phase: post_build (sqf) (done)
+2023-06-13T00:29:27.884229Z TRACE ThreadId(01) phase: post_build (Hooks) (start)
+2023-06-13T00:29:27.884231Z TRACE ThreadId(01) phase: post_build (Hooks) (done)
+2023-06-13T00:29:27.884233Z TRACE ThreadId(01) phase: post_build (Rapifier) (start)
+2023-06-13T00:29:27.884235Z TRACE ThreadId(01) phase: post_build (Rapifier) (done)
+2023-06-13T00:29:27.884237Z TRACE ThreadId(01) phase: post_build (Files) (start)
+2023-06-13T00:29:27.885079Z DEBUG ThreadId(01) copying "/LICENSE" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\LICENSE"
+2023-06-13T00:29:27.885485Z DEBUG ThreadId(01) copying "/mod.cpp" => "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\dev\\mod.cpp"
+2023-06-13T00:29:27.932091Z  INFO ThreadId(01) Copied 2 files
+2023-06-13T00:29:27.932105Z TRACE ThreadId(01) phase: post_build (Files) (done)
+2023-06-13T00:29:27.932107Z TRACE ThreadId(01) phase: post_build (FilePatching) (start)
+2023-06-13T00:29:27.932324Z  INFO ThreadId(01) You can now use the dev folder at `.hemttout/dev` to test your mod with file-patching.
+2023-06-13T00:29:27.932336Z TRACE ThreadId(01) phase: post_build (FilePatching) (done)
+2023-06-13T00:29:27.932341Z TRACE ThreadId(01) phase: post_build (done)
+2023-06-13T00:29:27.932633Z  INFO ThreadId(01) Config loaded for HEMTT 1.4.0.0-9e74c945
+2023-06-13T00:29:27.932656Z TRACE ThreadId(01) using temporary folder: "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units"
+2023-06-13T00:29:27.932661Z TRACE ThreadId(01) using project folder: "W:\\GitHub\\SynixeContractors\\units"
+2023-06-13T00:29:27.932663Z TRACE ThreadId(01) using out folder: "W:\\GitHub\\SynixeContractors\\units\\.hemttout"
+2023-06-13T00:29:27.932693Z TRACE ThreadId(01) using build folder: "W:\\GitHub\\SynixeContractors\\units\\.hemttout\\photoshoot"
+2023-06-13T00:29:27.932876Z TRACE ThreadId(01) vfs overlay at root: "C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\GitHub_SynixeContractors_units\\output"
+2023-06-13T00:29:27.932883Z TRACE ThreadId(01) vfs root: "W:\\GitHub\\SynixeContractors\\units"
+2023-06-13T00:29:27.937591Z TRACE ThreadId(01) unpacking "@hemtt/addons/x_main.pbo"
+2023-06-13T00:29:27.937853Z TRACE ThreadId(01) unpacking "@hemtt/addons/x_main.pbo.x_0.1.0.bisign"
+2023-06-13T00:29:27.937987Z TRACE ThreadId(01) unpacking "@hemtt/addons/x_photoshoot.pbo"
+2023-06-13T00:29:27.938125Z TRACE ThreadId(01) unpacking "@hemtt/addons/x_photoshoot.pbo.x_0.1.0.bisign"
+2023-06-13T00:29:27.938411Z TRACE ThreadId(01) unpacking "@hemtt/hemtt_comm_x64.dll"
+2023-06-13T00:29:27.938668Z TRACE ThreadId(01) unpacking "@hemtt/keys/x_0.1.0.bikey"
+2023-06-13T00:29:27.938838Z TRACE ThreadId(01) unpacking "Users/hemtt/hemtt.3den.Arma3Profile"
+2023-06-13T00:29:27.939067Z TRACE ThreadId(01) unpacking "Users/hemtt/hemtt.Arma3Profile"
+2023-06-13T00:29:27.939221Z TRACE ThreadId(01) unpacking "Users/hemtt/hemtt.vars.Arma3Profile"
+2023-06-13T00:29:27.939489Z TRACE ThreadId(01) unpacking "arma3.cfg"
+2023-06-13T00:29:27.939650Z TRACE ThreadId(01) unpacking "autotest/photoshoot.VR/functions/fnc_uniforms.sqf"
+2023-06-13T00:29:27.939971Z TRACE ThreadId(01) unpacking "autotest/photoshoot.VR/init.sqf"
+2023-06-13T00:29:27.940126Z TRACE ThreadId(01) unpacking "autotest/photoshoot.VR/mission.sqm"
+2023-06-13T00:29:27.941763Z  INFO ThreadId(01) Launching "F:\\SteamLibrary\\steamapps\\common\\Arma 3" with: "-profiles=C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\profile -debugCallExtension -skipIntro -noSplash -name=hemtt -window -autotest=C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\profile\\Users\\hemtt\\autotest.cfg -cfg=C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\profile\\arma3.cfg -mod=C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\profile\\@hemtt -mod=\"W:\\GitHub\\SynixeContractors\\units\\.hemttout/dev\""
+2023-06-13T00:29:28.093411Z  INFO ThreadId(01) Waiting for Arma...
+2023-06-13T00:29:41.448056Z  INFO ThreadId(01) Connected!
+2023-06-13T00:29:41.448074Z TRACE ThreadId(01) Receiving: 107
+2023-06-13T00:29:41.448084Z TRACE ThreadId(01) Received: Control(Mission("C:\\Users\\brett\\AppData\\Local\\Temp\\hemtt\\profile\\autotest\\photoshoot.VR\\"))
+2023-06-13T00:29:41.448088Z DEBUG ThreadId(01) Mission: photoshoot.VR\
+2023-06-13T00:29:41.475321Z TRACE ThreadId(01) Receiving: 22
+2023-06-13T00:29:41.475337Z TRACE ThreadId(01) Received: Photoshoot(Ready)
+2023-06-13T00:29:41.475340Z TRACE ThreadId(01) msg for photoshoot.VR: Photoshoot(Ready)
+2023-06-13T00:29:46.514280Z TRACE ThreadId(01) Receiving: 72
+2023-06-13T00:29:46.514300Z TRACE ThreadId(01) Received: Photoshoot(Uniform("synixe_contractors_Uniform_Contractor_Shirt"))
+2023-06-13T00:29:46.514304Z TRACE ThreadId(01) msg for photoshoot.VR: Photoshoot(Uniform("synixe_contractors_Uniform_Contractor_Shirt"))
+2023-06-13T00:29:46.729917Z TRACE ThreadId(01) Receiving: 78
+2023-06-13T00:29:46.729937Z TRACE ThreadId(01) Received: Photoshoot(Uniform("synixe_contractors_Uniform_Combat_LS_Synixe_BP_BB"))
+2023-06-13T00:29:46.729941Z TRACE ThreadId(01) msg for photoshoot.VR: Photoshoot(Uniform("synixe_contractors_Uniform_Combat_LS_Synixe_BP_BB"))
+2023-06-13T00:29:46.951805Z TRACE ThreadId(01) Receiving: 78
+2023-06-13T00:29:46.951823Z TRACE ThreadId(01) Received: Photoshoot(Uniform("synixe_contractors_Uniform_Combat_RS_Synixe_BP_BB"))
+2023-06-13T00:29:46.951827Z TRACE ThreadId(01) msg for photoshoot.VR: Photoshoot(Uniform("synixe_contractors_Uniform_Combat_RS_Synixe_BP_BB"))
+2023-06-13T00:29:48.650158Z  INFO ThreadId(01) Arma has exited
